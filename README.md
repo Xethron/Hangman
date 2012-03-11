@@ -1,6 +1,6 @@
 # C++ Hangman ReadMe #
 **Name:** Hangman  
-**Version:** 0.3.3.42  
+**Version:** 0.4.1.3  
 **Contributors:** Xethron  
 
 Simple Hangman game used for educational purposes.
